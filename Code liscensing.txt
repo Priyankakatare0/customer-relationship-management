@@ -1,0 +1,32 @@
+/*
+ * File         : Dashboard page
+ * Author       : Priyanka Katare
+ * Created On   : 14-07-2025
+ * Last Updated : 14-07-2025 by Priyanka Katare
+ *
+ * Description  : React component that displays recent integration activity logs
+ *                fetched from the backend API `/api/v1/integrations/logs`.
+ *
+ * Responsibilities:
+ * - Fetches recent activity data via API call
+ * - Displays user actions in a styled activity feed layout
+ * - Handles avatar fallback and empty states
+ *
+ * Dependencies:
+ * - React v18
+ * - Axios v1.x
+ * - Tailwind CSS (for styling)
+ *
+ * License:
+ * Copyright (c) 2025 Keerthi Bizplus4u IT Services Pvt Ltd
+ * All rights reserved.
+ *
+ * This file is part of the proprietary software developed by Keerthi Bizplus4u IT Services Pvt Ltd.
+ * Unauthorized copying of this file, via any medium, is strictly prohibited.
+ *
+ * This software is confidential and proprietary information of Keerthi Bizplus4u IT Services Pvt Ltd.
+ * You shall not disclose such Confidential Information and shall use it only in accordance with the
+ * terms of the license agreement you entered into with Keerthi Bizplus4u IT Services Pvt Ltd.
+ *
+ * For license inquiries, please contact: legal@keerthiitservices.com
+ */

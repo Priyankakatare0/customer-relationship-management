@@ -1,4 +1,5 @@
 // Author       : Priyanka Katare
-// Scope        : Unit testing for the Dashboard component – rendering activity logs, empty state, and avatar handling
-// Precondition : Dashboard component must be imported with mock integration log data
-// Expected     : Should render all logs, show empty state when no data, and fallback avatar when missing
+// Scope        : Unit testing for the UserAuthentication component – rendering authentication flow, empty state, and avatar handling
+// Precondition : UserAuthentication component must be imported with mock user authentication data
+// Expected     : Should render authentication flow, show empty state when no data, and fallback avatar when missing
+ 
